@@ -5,4 +5,5 @@
 2. cd build
 3. cmake ..
 4. make
-Дальше просто запустите программу, если у вас линукс "./FastUSRCompilerGUI"
+Дальше просто запустите программу "./FastUSRCompilerGUI"
+Работает только на Linux
