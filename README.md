@@ -7,3 +7,5 @@
 4. make
 Дальше просто запустите программу "./FastUSRCompilerGUI"
 Работает только на Linux
+
+Видео с инструкцией для второй версии: https://youtu.be/c0_6eQ9ryKs?si=grsASa3uufa40EWn
